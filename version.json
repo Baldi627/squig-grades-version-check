@@ -1,4 +1,4 @@
-{
-  "version": "2025.1.2-alpha.1",
-  "isPrerelease": true
-}
+[
+  { "version": "2025.1.1", "isPrerelease": false },
+  { "version": "2025.1.2-alpha.1", "isPrerelease": true }
+]
