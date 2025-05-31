@@ -1,4 +1,10 @@
-[
-  { "version": "2025.1.2", "isPrerelease": false },
-  { "version": "2025.1.2", "isPrerelease": true }
-]
+{
+  "stable": {
+    "version": "2025.1.2.0",
+    "isPrerelease": false
+  },
+  "prerelease": {
+    "version": "2025.1.3.0",
+    "isPrerelease": true
+  }
+}
