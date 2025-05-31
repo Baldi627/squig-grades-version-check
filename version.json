@@ -1,9 +1,9 @@
 {
-  "stable": {
+  "Stable": {
     "version": "2025.1.2.0",
     "isPrerelease": false
   },
-  "prerelease": {
+  "Prerelease": {
     "version": "2025.1.2.1",
     "isPrerelease": true
   }
